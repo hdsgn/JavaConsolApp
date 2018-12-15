@@ -2,6 +2,7 @@ package hdasgin.base.ornek2;
 
 public class Parametre {
 	public Parametre() {
+		
 		String ad="Hacer";
 		String soyad="daþgýn";
 		String Isimsoyisim=Isimsoyisim(ad,soyad);
